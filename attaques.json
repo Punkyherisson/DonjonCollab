@@ -1,0 +1,119 @@
+
+[
+  {
+    "nom": "Dague",
+    "type": "Physique",
+    "degats": 3,
+    "precision": 85,
+    "element": "Neutre",
+    "description": "Une attaque rapide avec une dague acérée"
+  },
+  {
+    "nom": "Epee Courte",
+    "type": "Physique",
+    "degats": 5,
+    "precision": 80,
+    "element": "Neutre",
+    "description": "Attaque d'épée basique mais efficace"
+  },
+  {
+    "nom": "Cri de Guerre",
+    "type": "Buff",
+    "degats": 0,
+    "precision": 100,
+    "element": "Neutre",
+    "description": "Augmente l'initiative pour le prochain tour",
+    "effet": "initiative +2"
+  },
+  {
+    "nom": "Morsure",
+    "type": "Physique",
+    "degats": 2,
+    "precision": 90,
+    "element": "Neutre",
+    "description": "Morsure vicieuse qui peut causer des dégâts de poison"
+  },
+  {
+    "nom": "Infection",
+    "type": "Poison",
+    "degats": 1,
+    "precision": 70,
+    "element": "Mal",
+    "description": "Cause des dégâts de poison sur plusieurs tours",
+    "effet": "poison 3 tours"
+  },
+  {
+    "nom": "Petite Griffe",
+    "type": "Physique",
+    "degats": 2,
+    "precision": 95,
+    "element": "Neutre",
+    "description": "Attaque de griffe rapide mais peu puissante"
+  },
+  {
+    "nom": "Masse",
+    "type": "Physique",
+    "degats": 6,
+    "precision": 75,
+    "element": "Neutre",
+    "description": "Coup lourd qui peut étourdir l'adversaire"
+  },
+  {
+    "nom": "Hache",
+    "type": "Physique",
+    "degats": 7,
+    "precision": 70,
+    "element": "Neutre",
+    "description": "Attaque puissante mais peu précise"
+  },
+  {
+    "nom": "Souffle de Feu",
+    "type": "Magique",
+    "degats": 15,
+    "precision": 90,
+    "element": "Feu",
+    "description": "Puissant souffle enflammé qui brûle l'ennemi",
+    "effet": "brulure 2 tours"
+  },
+  {
+    "nom": "Griffes Ardentes",
+    "type": "Physique",
+    "degats": 12,
+    "precision": 85,
+    "element": "Feu",
+    "description": "Griffes imprégnées de flammes magiques"
+  },
+  {
+    "nom": "Queue Enflammee",
+    "type": "Physique",
+    "degats": 10,
+    "precision": 80,
+    "element": "Feu",
+    "description": "Coup de queue puissant qui peut repousser l'ennemi"
+  },
+  {
+    "nom": "Fleche",
+    "type": "Distance",
+    "degats": 4,
+    "precision": 90,
+    "element": "Neutre",
+    "description": "Tir précis à l'arc"
+  },
+  {
+    "nom": "Soin Naturel",
+    "type": "Soin",
+    "degats": -5,
+    "precision": 100,
+    "element": "Nature",
+    "description": "Soigne les blessures grâce à la magie naturelle"
+  },
+  {
+    "nom": "Enchevêtrement",
+    "type": "Controle",
+    "degats": 2,
+    "precision": 75,
+    "element": "Nature",
+    "description": "Immobilise l'ennemi avec des racines et des lianes",
+    "effet": "paralysie 1 tour"
+  }
+]

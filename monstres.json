@@ -1,0 +1,63 @@
+
+[
+  {
+    "nom": "Goblin",
+    "pvies": 10,
+    "attaque1": "Dague",
+    "attaque2": "Epee Courte",
+    "attaque3": "Cri de Guerre",
+    "initiative": 3,
+    "pieces_or": 2,
+    "pts_experience": 3,
+    "element": "Terre",
+    "capturable": true
+  },
+  {
+    "nom": "Rat",
+    "pvies": 4,
+    "attaque1": "Morsure",
+    "attaque2": "Infection",
+    "attaque3": "Petite Griffe",
+    "initiative": 1,
+    "pieces_or": 1,
+    "pts_experience": 2,
+    "element": "Terre",
+    "capturable": true
+  },
+  {
+    "nom": "Squelette",
+    "pvies": 8,
+    "attaque1": "Epee Courte",
+    "attaque2": "Masse",
+    "attaque3": "Hache",
+    "initiative": 4,
+    "pieces_or": 5,
+    "pts_experience": 5,
+    "element": "Mal",
+    "capturable": false
+  },
+  {
+    "nom": "Dragon de Feu",
+    "pvies": 50,
+    "attaque1": "Souffle de Feu",
+    "attaque2": "Griffes Ardentes",
+    "attaque3": "Queue Enflammee",
+    "initiative": 8,
+    "pieces_or": 100,
+    "pts_experience": 50,
+    "element": "Feu",
+    "capturable": false
+  },
+  {
+    "nom": "Lutin des Bois",
+    "pvies": 6,
+    "attaque1": "Fleche",
+    "attaque2": "Soin Naturel",
+    "attaque3": "Enchevêtrement",
+    "initiative": 5,
+    "pieces_or": 3,
+    "pts_experience": 4,
+    "element": "Nature",
+    "capturable": true
+  }
+]

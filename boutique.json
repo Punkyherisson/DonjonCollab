@@ -1,0 +1,151 @@
+
+[
+  {
+    "nom": "Dague",
+    "type": "arme",
+    "prix": 15,
+    "stats": {
+      "degats": 3,
+      "precision": 85
+    },
+    "description": "Une dague simple mais efficace",
+    "slot": "main_droite"
+  },
+  {
+    "nom": "Épée Courte",
+    "type": "arme",
+    "prix": 25,
+    "stats": {
+      "degats": 5,
+      "precision": 80
+    },
+    "description": "Une épée légère et maniable",
+    "slot": "main_droite"
+  },
+  {
+    "nom": "Épée Longue",
+    "type": "arme",
+    "prix": 50,
+    "stats": {
+      "degats": 8,
+      "precision": 75
+    },
+    "description": "Une épée puissante à deux mains",
+    "slot": "deux_mains"
+  },
+  {
+    "nom": "Arc",
+    "type": "arme",
+    "prix": 40,
+    "stats": {
+      "degats": 6,
+      "precision": 90
+    },
+    "description": "Arc en bois avec corde solide",
+    "slot": "deux_mains"
+  },
+  {
+    "nom": "Bouclier en Bois",
+    "type": "bouclier",
+    "prix": 20,
+    "stats": {
+      "defense": 2
+    },
+    "description": "Bouclier simple en bois renforcé",
+    "slot": "main_gauche"
+  },
+  {
+    "nom": "Bouclier de Fer",
+    "type": "bouclier",
+    "prix": 45,
+    "stats": {
+      "defense": 4
+    },
+    "description": "Bouclier métallique résistant",
+    "slot": "main_gauche"
+  },
+  {
+    "nom": "Armure de Cuir",
+    "type": "armure",
+    "prix": 35,
+    "stats": {
+      "defense": 3,
+      "agilite": -1
+    },
+    "description": "Armure légère en cuir tanné",
+    "slot": "torse"
+  },
+  {
+    "nom": "Cotte de Mailles",
+    "type": "armure",
+    "prix": 80,
+    "stats": {
+      "defense": 6,
+      "agilite": -3
+    },
+    "description": "Armure métallique solide",
+    "slot": "torse"
+  },
+  {
+    "nom": "Casque de Cuir",
+    "type": "casque",
+    "prix": 15,
+    "stats": {
+      "defense": 1
+    },
+    "description": "Casque simple en cuir",
+    "slot": "tete"
+  },
+  {
+    "nom": "Heaume de Fer",
+    "type": "casque",
+    "prix": 35,
+    "stats": {
+      "defense": 3,
+      "vision": -1
+    },
+    "description": "Casque métallique intégral",
+    "slot": "tete"
+  },
+  {
+    "nom": "Bottes de Cuir",
+    "type": "chaussures",
+    "prix": 12,
+    "stats": {
+      "agilite": 1
+    },
+    "description": "Bottes souples en cuir",
+    "slot": "pieds"
+  },
+  {
+    "nom": "Bottes Ferrées",
+    "type": "chaussures",
+    "prix": 25,
+    "stats": {
+      "defense": 1,
+      "agilite": -1
+    },
+    "description": "Bottes renforcées de métal",
+    "slot": "pieds"
+  },
+  {
+    "nom": "Potion de Soin",
+    "type": "consommable",
+    "prix": 10,
+    "stats": {
+      "soin": 15
+    },
+    "description": "Restaure les points de vie",
+    "slot": "aucun"
+  },
+  {
+    "nom": "Potion de Force",
+    "type": "consommable",
+    "prix": 20,
+    "stats": {
+      "force": 2
+    },
+    "description": "Augmente temporairement la force",
+    "slot": "aucun"
+  }
+]
